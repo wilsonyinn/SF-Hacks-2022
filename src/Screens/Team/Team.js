@@ -1,7 +1,7 @@
 import React from "react";
 import { useState, useEffect } from "react";
 import Ankur from "../../Assets/Team-imgs/Ankur.jpeg";
-import Anmol from "../../Assets/Team-imgs/Anmol.png";
+import Wilson from "../../Assets/Team-imgs/Wilson.jpg";
 import Arianna from "../../Assets/Team-imgs/Arianna.jpg";
 import Basim from "../../Assets/Team-imgs/Basim.jpg";
 import Jae from "../../Assets/Team-imgs/Jae.jpg";
@@ -53,9 +53,9 @@ const Team = () => {
             image: Ankur,
         },
         {
-            name: "Anmol Burmy",
+            name: "Wilson Yin",
             position: "WEB DEVELOPMENT OFFICER",
-            image: Anmol,
+            image: Wilson,
         },
         {
             name: "Basim Baylor",
