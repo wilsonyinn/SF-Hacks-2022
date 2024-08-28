@@ -54,7 +54,7 @@ const Team = () => {
         },
         {
             name: "Wilson Yin",
-            position: "WEB DEVELOPMENT OFFICER",
+            position: "LEAD WEB DEVELOPMENT OFFICER",
             image: Wilson,
         },
         {
